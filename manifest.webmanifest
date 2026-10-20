@@ -1,0 +1,14 @@
+{
+  "name": "Семейное меню",
+  "short_name": "Меню",
+  "description": "Выбираете блюда — корзина продуктов собирается сама",
+  "lang": "ru",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f4f5fb",
+  "theme_color": "#2534ed",
+  "icons": [
+    { "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}
